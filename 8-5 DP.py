@@ -1,7 +1,7 @@
 #효율적인 화폐 구성
 n,m=map(int,input().split())
 
-#n개의 화폐단위 정보 입력받기
+#n개의 화폐단위 정보 입력받기_
 array=[]
 for i in range(n):
     array.append(int(input()))
